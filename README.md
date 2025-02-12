@@ -1,6 +1,7 @@
 # A**n Electromyography system for Sitting and Walking Postures**
 
-## Project Description: This project presents an Electromyography (EMG)-based system designed for the classification of sitting and walking postures. The system is a foundational model for lower limb prosthesis, leveraging machine learning techniques to recognize human postures with high accuracy.
+## Project Description
+This project presents an Electromyography (EMG)-based system designed for the classification of sitting and walking postures. The system is a foundational model for lower limb prosthesis, leveraging machine learning techniques to recognize human postures with high accuracy.
 
 ## Key Features:
 - **Data Collection**: EMG signals are acquired using a 4-channel Clarity Medical EMG machine, capturing muscle activity from the rectus femoris (RF), biceps femoris (BF), vastus medialis (VM), and semitendinosus (ST). 
